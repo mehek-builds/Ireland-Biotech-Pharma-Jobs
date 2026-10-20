@@ -1,11 +1,14 @@
-# 68 science, research and lab roles
+# 62 science, research and lab roles
 
-**68 roles at 28 companies.** Checked 15 Oct 2026. Scientists, analysts, lab and QC roles, research and clinical.
+**62 roles at 25 companies.** Checked 20 Oct 2026. Scientists, analysts, lab and QC roles, research and clinical.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Regeneron** | [Clinical Study Associate, Clinical Operations](https://trylitos.com/job/16a82ed4-cb59-46f8-ac6b-ff7cea9f029e?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Dublin |  | Oct 16 | Employer holds a UK sponsor licence (Home Office register) |
+| **Pfizer** | [QA Chemist](https://trylitos.com/job/80ba88ef-ce66-4c7a-b009-531ffe70111f?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Ireland - Cork - Ringaskiddy |  | Oct 14 | Employer holds a UK sponsor licence (Home Office register) |
+| **Bristol Myers Squibb** | [Scientist, QC Training and Analytics](https://trylitos.com/job/fd4e7af9-0a6d-45c9-9cc1-ef1acb8098ec?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Cruiserath - IE |  | Oct 14 |  |
 | **Dexcom** | [QC Inspector 3](https://trylitos.com/job/85e43055-f506-4a9b-8c7e-e7f90e92cef1?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Athenry, Ireland |  | Oct 14 |  |
 | **ALS** | [XRF Laboratory Assistant (Evenings)](https://trylitos.com/job/f6e590e7-8a86-44a2-a555-029d66dbc3ec?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Loughrea, Ireland |  | Oct 14 |  |
 | **ALS** | [Laboratory Assistant](https://trylitos.com/job/fceb5790-44b5-4773-a16c-0ee328199c84?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Loughrea, Ireland |  | Oct 14 |  |
@@ -24,7 +27,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Bristol Myers Squibb** | [Manufacturing Science and Technology  API ExM Intern](https://trylitos.com/job/7a5574e1-e961-4eeb-b9fd-c72637d6d899?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Dublin - IE |  | Oct 12 |  |
 | **Regeneron** | [QC Micro Analyst](https://trylitos.com/job/9d0fb832-b691-4681-bc16-a95100237544?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Limerick |  | Oct 12 |  |
 | **Regeneron** | [QC External Lab Coordinator](https://trylitos.com/job/57481207-d2ee-4e64-bef0-d1071818f1e2?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Limerick |  | Oct 12 |  |
-| **Gilead Sciences** | [QC Chemist III](https://trylitos.com/job/cbfcd8f6-61bf-4b46-bb77-6ec4155da93a?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Ireland - Cork |  | Oct 12 |  |
 | **Bristol Myers Squibb** | [QC Separations Intern](https://trylitos.com/job/f1f63d17-5015-4816-bf17-b62ac7962bc1?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Cruiserath - IE |  | Oct 12 |  |
 | **Bristol Myers Squibb** | [QC Microbiology EM Intern](https://trylitos.com/job/d5fab411-49a4-4747-a37b-bddfc0ec0da3?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Cruiserath - IE |  | Oct 12 |  |
 | **Bristol Myers Squibb** | [QC Bioanalytical Intern](https://trylitos.com/job/cf8dd983-946f-4d44-b497-8d20adaaf4fc?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Cruiserath - IE |  | Oct 12 |  |
@@ -47,7 +49,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **ICON plc** | [Senior Clinical Trial Manager - Biotech](https://trylitos.com/job/c39ec355-0b8d-4bb1-8f13-e65869edaa85?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Romania, Bucharest; Spain, Madrid; Bulgaria, |  | Oct 6 |  |
 | **Biogen** | [Senior Engineer I, Manufacturing Sciences](https://trylitos.com/job/c43b32ec-3924-476c-b0eb-0e35d10f6e54?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Athlone, Ireland |  | Oct 6 |  |
 | **Biogen** | [Senior Engineer II, Manufacturing Sciences](https://trylitos.com/job/8d57f806-31a5-43e0-888a-8f63b825020c?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Athlone, Ireland |  | Oct 6 |  |
-| **ICON plc** | [Laboratory Proj Coordinator I](https://trylitos.com/job/d33b553c-af15-4d46-b343-e5373936536f?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Bulgaria, Sofia; Ireland, Dublin |  | Oct 6 |  |
 | **Pernod Ricard** | [Laboratory Technician](https://trylitos.com/job/f2056bbf-f372-40ae-9ac9-ee51630409c4?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Cork |  | Oct 5 |  |
 | **Dexcom** | [QC Inspector 2 Evening Shift](https://trylitos.com/job/3fdddc85-a1a5-4935-b7cc-ed46c5a4841e?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Athenry, Ireland |  | Oct 5 |  |
 | **Regeneron** | [Temp - Associate QC Compliance Specialist](https://trylitos.com/job/e5b1624d-ddcf-40d7-aa45-a56d1ea268c8?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Limerick |  | Oct 5 |  |
@@ -55,11 +56,7 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Merck & Co. (MSD)** | [QC Team Lead](https://trylitos.com/job/c410d60e-c095-47a1-95d1-e7ce6a1acce9?utm_source=github&utm_campaign=ireland-biotech-science-lab) | IRL - Carlow - Carlow |  | Oct 2 |  |
 | **ALS** | [Microbiology Laboratory Technician](https://trylitos.com/job/e21f2ce7-ff58-45a9-aca5-836f2d4078f7?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Clonmel, Ireland |  | Oct 1 |  |
 | **Mallinckrodt Pharmaceuticals** | [Laboratory Manager](https://trylitos.com/job/a8e74613-8f82-402d-8243-6f38a31a2be8?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Dublin, IRL |  | Oct 1 |  |
-| **OhioHealth** | [Technical Laboratory Assistant](https://trylitos.com/job/f16fedec-5606-4e5c-b869-b5a703df7d0a?utm_source=github&utm_campaign=ireland-biotech-science-lab) | DUBLIN METHODIST HOSPITAL |  | Sep 30 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Regeneron** | [Temp - Associate Process Scientist](https://trylitos.com/job/d4cfb0b2-dd4e-4fd9-b3f2-d5882e8c34eb?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Limerick |  | Sep 29 |  |
-| **Pfizer** | [Premier ou première spécialiste scientifique - Développement de l’IA et systèmes agentiques  // Senior Scientist - AI Dev and Agentic Systems](https://trylitos.com/job/c2a7071c-31b4-4efe-a766-343772c9fdfa?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Canada - Quebec - Kirkland; Ireland - Dublin |  | Sep 28 |  |
-| **Sanofi** | [QC Analyst](https://trylitos.com/job/c818e959-0112-4d41-a9c9-4c92d3de180e?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Waterford |  | Sep 28 |  |
-| **ICON plc** | [Program Manager, Laboratory Facility Development & Expansion](https://trylitos.com/job/0237376e-ea95-4423-ac4b-d8d44619e138?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Ireland, Dublin |  | Sep 25 |  |
 | **PCI Pharma Services** | [Laboratory Technician](https://trylitos.com/job/1ad0433f-bb5a-4a2d-ab70-efdaccbc88c7?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Stamullen, Co. Meath, IRL |  | Sep 17 |  |
 | **Dexcom** | [Lab Supervisor (Manufacturing) - Back End Day Shift](https://trylitos.com/job/41423cef-43ae-4976-b3c4-f9f97562a0e3?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Athenry, Ireland |  | Sep 11 |  |
 | **Eli Lilly and Company** | [Intern - Data Analyst](https://trylitos.com/job/42ae831e-3e75-459f-8efa-eab54c9841bd?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Ireland, Kinsale |  | Sep 2 |  |
@@ -71,8 +68,5 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Greenvolt** | [Solar QA/QC Engineer](https://trylitos.com/job/8f827d80-bcd0-4d3c-bd5a-7592e3e5b4d6?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Waterford, County Waterford, Ireland |  | Oct 1 |  |
 | **Cental Engineering Limited** | [QA/QC Mechanical Inspector](https://trylitos.com/job/5f8e0beb-64d4-4d32-b3ff-ef8c994e1032?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Carlow, Ireland |  | Sep 28 |  |
 | **MSR-FSR** | [Mechanical QA/QC](https://trylitos.com/job/441e568d-e3cc-42b6-86e9-a28029b422ae?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Leixlip, County Kildare, Ireland |  | Sep 24 |  |
-| **Aureol Global Connections** | [QC Inspector](https://trylitos.com/job/ad283270-46b4-496b-85b4-7c330f2801e7?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Greatconnell, County Kildare, Ireland |  | Feb 22 |  |
-| **Winthrop Technologies** | [CSA QA/QC Engineer](https://trylitos.com/job/f32fd745-4a17-485c-9b66-92d50f0c9869?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Dublin, County Dublin, Ireland |  | Jan 23 |  |
-| **Aureol Global Connections** | [QA/QC Engineer - 5 required](https://trylitos.com/job/6fa847f0-ea86-4343-992e-6faf5caf12e2?utm_source=github&utm_campaign=ireland-biotech-science-lab) | Wolverhampton, England, United Kingdom / Atti |  | Jan 16 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)

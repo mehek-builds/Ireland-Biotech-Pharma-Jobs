@@ -1,11 +1,18 @@
-# 37 graduate programs and internships roles
+# 36 graduate programs and internships roles
 
-**37 roles at 7 companies.** Checked 15 Oct 2026. Graduate programs, internships, placements and trainee roles.
+**36 roles at 9 companies.** Checked 20 Oct 2026. Graduate programs, internships, placements and trainee roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Abbott** | [Internship Statistician](https://trylitos.com/job/91c89802-45d9-46cc-8263-921e0a25510f?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Donegal Town |  | Oct 16 |  |
+| **Sanofi** | [Biologics Operations Intern](https://trylitos.com/job/562dc145-cbf3-49c6-9131-3f5a74a9226c?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 15 |  |
+| **Merck & Co. (MSD)** | [Engineering Internship - Ballydine](https://trylitos.com/job/9272ac16-f819-4a1f-812c-f05e807545a0?utm_source=github&utm_campaign=ireland-biotech-graduate) | IRL - Tipperary - Ballydine |  | Oct 15 | Employer holds a UK sponsor licence (Home Office register) |
+| **Alcon** | [QE intern](https://trylitos.com/job/e853e72f-6bff-494c-8e0b-95302c4c2034?utm_source=github&utm_campaign=ireland-biotech-graduate) | Cork, Ireland |  | Oct 15 |  |
+| **Sanofi** | [Analytical Science Intern - MSAT](https://trylitos.com/job/140c7ebf-38ca-46aa-930c-2db3ea8dde26?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 12 |  |
+| **Sanofi** | [Site Portfolio Intern](https://trylitos.com/job/18212974-7372-48b6-bf0a-99838c5d5d68?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 12 |  |
+| **Sanofi** | [Clean Utilities & Sustainability Intern](https://trylitos.com/job/76a84e30-9b54-4cb0-87ee-22197fb38825?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 12 |  |
 | **Sanofi** | [Quality Excellence Intern](https://trylitos.com/job/fd487d00-0754-48ee-ad3f-5146394d41f9?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 13 |  |
 | **Sanofi** | [Quality Systems Intern](https://trylitos.com/job/b8ff0afe-6891-49a1-b718-fb72c78d0541?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 13 |  |
 | **Sanofi** | [Manufacturing Operations Specialist Intern (Lyo)](https://trylitos.com/job/d00f306d-bd1d-4d1d-8448-5a8afd2cad24?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 13 |  |
@@ -29,18 +36,10 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Bristol Myers Squibb** | [Quality Compliance - Quality Services Intern](https://trylitos.com/job/c7d39e69-f7d4-44bf-a9f3-8e1b17855bda?utm_source=github&utm_campaign=ireland-biotech-graduate) | Dublin - IE |  | Oct 12 |  |
 | **Sanofi** | [Product Supply Process Engineering Intern](https://trylitos.com/job/1225ea4f-ee38-4fef-af6d-4e3609021037?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 12 |  |
 | **Sanofi** | [Engineering Intern](https://trylitos.com/job/0a1905db-69b7-40d5-af0b-bc50c763f4a9?utm_source=github&utm_campaign=ireland-biotech-graduate) | Waterford |  | Oct 12 |  |
-| **Gilead Sciences** | [Graduate Program Associate - Environmental, Health & Safety](https://trylitos.com/job/b10934f9-379c-4160-9012-75419b83a241?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Cork |  | Oct 12 |  |
 | **Eli Lilly and Company** | [Intern - Automation Engineer](https://trylitos.com/job/9889bfb4-4cb9-4694-90c1-37d206c42e41?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland, Limerick |  | Oct 8 |  |
 | **Gilead Sciences** | [Graduate Program Associate - Manufacturing Technical Services](https://trylitos.com/job/b0321cbc-8c30-4a86-878c-5b5a3e845f2f?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Cork |  | Oct 8 |  |
-| **Eli Lilly and Company** | [Graduate Process Engineer](https://trylitos.com/job/f34ae1ec-7a60-494b-9bb6-62eac740e39e?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland, Kinsale |  | Oct 2 |  |
-| **Stryker** | [R&D Biomedical/Mechanical Engineering Graduate Program - September 2027](https://trylitos.com/job/172caa5c-4fa7-4649-9ddd-3bd1afc22cb4?utm_source=github&utm_campaign=ireland-biotech-graduate) | Cork, Ireland |  | Sep 23 |  |
-| **Gilead Sciences** | [Graduate Associate, Development & Technical Services (DTS)](https://trylitos.com/job/1ce74dd4-1550-4c07-b947-b0b06acc4b0b?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Cork |  | Sep 22 |  |
 | **Pfizer** | [2027 Pfizer Newbridge Graduate Programme](https://trylitos.com/job/b4562605-a7df-4432-88f7-b2c316c04c57?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Kildare - Newbridge |  | Sep 21 |  |
-| **Gilead Sciences** | [Quality Assurance Graduate Programme](https://trylitos.com/job/539e5702-0b71-4a3b-bf2f-4d906367b241?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Cork |  | Sep 21 |  |
 | **Pfizer** | [2027 Pfizer Grange Castle Graduate Programme](https://trylitos.com/job/b8161fd9-98d6-4abe-8834-920f71a19aa6?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Dublin - Grange Castle |  | Sep 21 |  |
-| **Stryker** | [Biomedical/Mechanical Engineering Co-op 2027 - Cork (Summer Start)](https://trylitos.com/job/4ab6a6d7-92c2-4793-8c09-f0d9bc4a6269?utm_source=github&utm_campaign=ireland-biotech-graduate) | Cork, Ireland; Cork, Cork Business and Techno |  | Sep 17 |  |
-| **Pfizer** | [2027 Graduate Programme, Pfizer Ringaskiddy](https://trylitos.com/job/37476725-d9c0-4975-9f04-d56238ed1189?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Cork - Ringaskiddy |  | Sep 14 |  |
-| **Gilead Sciences** | [Supply Chain Graduate Programme](https://trylitos.com/job/a755bf2b-fba9-45af-856d-b946d861d793?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland - Cork |  | Sep 14 |  |
 | **Eli Lilly and Company** | [Intern - Data Analyst](https://trylitos.com/job/42ae831e-3e75-459f-8efa-eab54c9841bd?utm_source=github&utm_campaign=ireland-biotech-graduate) | Ireland, Kinsale |  | Sep 2 |  |
 | **Momentive Performance Materials** | [Summer 2027 Intern - Waterford Site Quality (QC)](https://trylitos.com/job/cad62c22-34fb-4e73-8a17-298c0ff49921?utm_source=github&utm_campaign=ireland-biotech-graduate) | US NY Waterford |  | Sep 1 | Employer has approved H-1B petitions (USCIS); posting does not say |
 

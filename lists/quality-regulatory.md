@@ -1,11 +1,20 @@
-# 36 quality and regulatory roles
+# 41 quality and regulatory roles
 
-**36 roles at 15 companies.** Checked 15 Oct 2026. Quality assurance, quality systems, compliance and regulatory affairs.
+**41 roles at 20 companies.** Checked 20 Oct 2026. Quality assurance, quality systems, compliance and regulatory affairs.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
 | Company | Role | Location | Pay | Posted | Visa signal |
 | --- | --- | --- | --- | --- | --- |
+| **Stryker** | [Senior Quality Engineer - New Product Introduction](https://trylitos.com/job/189edf05-cdee-454c-893e-b1d513ed383b?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Cork, Ireland |  | Oct 19 | Employer holds a UK sponsor licence (Home Office register) |
+| **Ipsen** | [QA Technologist](https://trylitos.com/job/773b33cb-1a9e-4037-bfe6-5c64fe9b6f3c?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Dublin |  | Oct 16 | Employer holds a UK sponsor licence (Home Office register) |
+| **Merck & Co. (MSD)** | [Trade Compliance Specialist](https://trylitos.com/job/a8601a21-1ab2-41b6-b04c-62aadebbb36f?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | IRL - Tipperary - Ballydine |  | Oct 16 | Employer holds a UK sponsor licence (Home Office register) |
+| **Bristol Myers Squibb** | [Quality Compliance Senior Manager](https://trylitos.com/job/a50d2fd2-91a9-41d6-b8c7-68d858a0a2bb?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Dublin - IE; Boudry - CH |  | Oct 15 |  |
+| **Merck & Co. (MSD)** | [Digital and Data Quality (Snr Specialist)](https://trylitos.com/job/e3a6bbd2-1310-4c23-ba3a-ad4063ac81c5?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | IRL - Tipperary - Ballydine |  | Oct 15 | Employer holds a UK sponsor licence (Home Office register) |
+| **Abbott** | [Quality Professional](https://trylitos.com/job/2b991f78-435c-47d8-91c4-942745cb9b73?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Ireland - Longford |  | Oct 14 |  |
+| **Pfizer** | [QA Chemist](https://trylitos.com/job/80ba88ef-ce66-4c7a-b009-531ffe70111f?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Ireland - Cork - Ringaskiddy |  | Oct 14 | Employer holds a UK sponsor licence (Home Office register) |
+| **Edwards Lifesciences** | [Principal Quality Engineer](https://trylitos.com/job/8d4e3059-95cf-4b37-b2de-3bcd12973722?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Ireland-Limerick |  | Oct 14 |  |
+| **Summit Therapeutics** | [Senior Specialist, QA](https://trylitos.com/job/ea225cc9-165a-4fb0-8458-addc0d0114ba?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | National University of Ireland, Galway, Irela |  | Oct 12 |  |
 | **Sanofi** | [Quality Excellence Intern](https://trylitos.com/job/fd487d00-0754-48ee-ad3f-5146394d41f9?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Waterford |  | Oct 13 |  |
 | **Sanofi** | [Quality Systems Intern](https://trylitos.com/job/b8ff0afe-6891-49a1-b718-fb72c78d0541?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Waterford |  | Oct 13 |  |
 | **Momentive Performance Materials** | [Quality Control Lab Technician](https://trylitos.com/job/8ad859cb-8988-4f3a-a7cf-983b06998c28?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | US NY Waterford |  | Oct 13 | Employer has approved H-1B petitions (USCIS); posting does not say |
@@ -26,8 +35,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Regeneron** | [Temp - Associate QC Compliance Specialist](https://trylitos.com/job/e5b1624d-ddcf-40d7-aa45-a56d1ea268c8?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Limerick |  | Oct 5 |  |
 | **PCI Pharma Services** | [Quality Operations Technician Dundalk](https://trylitos.com/job/06493f01-9e05-4421-9d3e-6e0ccc69adc4?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Dundalk, Co. Louth, IRL |  | Oct 1 |  |
 | **PCI Pharma Services** | [Quality Manager - Pharmaceutical Distribution](https://trylitos.com/job/32a95f95-8602-42f6-9847-e22dfa0f5568?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Dundalk, Co. Louth, IRL |  | Sep 22 |  |
-| **PCI Pharma Services** | [Quality Operations Technician](https://trylitos.com/job/4bb3011a-fdb6-4c35-8a16-c57665ac29b2?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Blanchardstown, Co. Dublin, IRL; Drogheda, Co |  | Sep 21 |  |
-| **Gilead Sciences** | [Quality Assurance Graduate Programme](https://trylitos.com/job/539e5702-0b71-4a3b-bf2f-4d906367b241?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Ireland - Cork |  | Sep 21 |  |
 | **PCI Pharma Services** | [Quality Operations Technician City North](https://trylitos.com/job/60425a7a-3908-44f8-b943-b43e609ba674?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Stamullen, Co. Meath, IRL |  | Sep 18 |  |
 | **Momentive Performance Materials** | [Summer 2027 Intern - Waterford Site Quality (QC)](https://trylitos.com/job/cad62c22-34fb-4e73-8a17-298c0ff49921?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | US NY Waterford |  | Sep 1 | Employer has approved H-1B petitions (USCIS); posting does not say |
 | **Regeneron** | [Senior Manager GCP Quality](https://trylitos.com/job/f9566a1e-f47d-499e-b7b1-64282ff4b1f8?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Dublin |  | Aug 27 |  |
@@ -40,7 +47,5 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Greenvolt** | [Solar QA/QC Engineer](https://trylitos.com/job/8f827d80-bcd0-4d3c-bd5a-7592e3e5b4d6?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Waterford, County Waterford, Ireland |  | Oct 1 |  |
 | **Cental Engineering Limited** | [QA/QC Mechanical Inspector](https://trylitos.com/job/5f8e0beb-64d4-4d32-b3ff-ef8c994e1032?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Carlow, Ireland |  | Sep 28 |  |
 | **MSR-FSR** | [Mechanical QA/QC](https://trylitos.com/job/441e568d-e3cc-42b6-86e9-a28029b422ae?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Leixlip, County Kildare, Ireland |  | Sep 24 |  |
-| **Winthrop Technologies** | [CSA QA/QC Engineer](https://trylitos.com/job/f32fd745-4a17-485c-9b66-92d50f0c9869?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Dublin, County Dublin, Ireland |  | Jan 23 |  |
-| **Aureol Global Connections** | [QA/QC Engineer - 5 required](https://trylitos.com/job/6fa847f0-ea86-4343-992e-6faf5caf12e2?utm_source=github&utm_campaign=ireland-biotech-quality-regulatory) | Wolverhampton, England, United Kingdom / Atti |  | Jan 16 |  |
 
 [Download as CSV](../csv/) · [All lists](../README.md)
