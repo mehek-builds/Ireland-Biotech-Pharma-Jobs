@@ -12,6 +12,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Manufacturing, process and engineering](lists/manufacturing-engineering.md) | 86 | 26 |
 | [Quality and regulatory](lists/quality-regulatory.md) | 41 | 20 |
 | [Graduate programs and internships](lists/graduate.md) | 36 | 9 |
+| [Cork](lists/cork.md) | 13 | 5 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 
